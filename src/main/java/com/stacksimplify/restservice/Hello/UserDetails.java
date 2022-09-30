@@ -1,8 +1,5 @@
 package com.stacksimplify.restservice.Hello;
 
-
-
-
 public class UserDetails {
 
 	private String  firstname;
